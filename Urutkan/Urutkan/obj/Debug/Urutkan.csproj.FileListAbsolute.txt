@@ -1,0 +1,10 @@
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\bin\Debug\Urutkan.exe.config
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\bin\Debug\Urutkan.exe
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\bin\Debug\Urutkan.pdb
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.csprojAssemblyReference.cache
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.Form1.resources
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.Properties.Resources.resources
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.csproj.GenerateResource.cache
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.csproj.CoreCompileInputs.cache
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.exe
+D:\UC\Algorithma\Week 14\Jumat\Urutkan\Urutkan\obj\Debug\Urutkan.pdb
